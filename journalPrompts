@@ -1,1 +1,1 @@
-['apple', 'banana', 'cherry', 'date', 'elderberry']
+const myArray = ['apple', 'banana', 'cherry', 'date', 'elderberry'];
